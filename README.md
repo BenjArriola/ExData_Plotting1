@@ -1,3 +1,19 @@
+## Update
+
+My submitted assignment fork has the same readme contents below my
+updates here. One thing to note is all my submitted files have the
+same content except of the last line which is the final function
+call. plot1.R, plot2.R, plot3.R and plot4.R have all the functions
+to create all plots. I found this to be convenient for me when I 
+was specifically working on 1 file instead of 4. But as part of the 
+assignment, we are required to submit for 4 files, I simply renamed 
+each one, and changed the final function call at the end of the file
+so it only runs the function required.
+
+Some people may call this coad bloat, but it is a simple exercise
+anyway. I am still all for the learning and I definitely learned
+from this exercise.
+
 ## Introduction
 
 This assignment uses data from
